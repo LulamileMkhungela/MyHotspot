@@ -1,624 +1,717 @@
 <!doctype html>
-<html lang="en">
+<html class="no-js" lang="zxx">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Loux Hotspot </title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="manifest" href="site.webmanifest">
+		<link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
 
-<head>
-	<!-- Required meta tags -->
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<link rel="icon" href="img/favicon.png" type="image/png">
-	<title>Lulamile Portfolio</title>
-	<!-- Bootstrap CSS -->
-	<link rel="stylesheet" href="css/bootstrap.css">
-	<link rel="stylesheet" href="vendors/linericon/style.css">
-	<link rel="stylesheet" href="css/font-awesome.min.css">
-	<link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.css">
-	<link rel="stylesheet" href="css/magnific-popup.css">
-	<link rel="stylesheet" href="vendors/nice-select/css/nice-select.css">
-	<!-- main css -->
-	<link rel="stylesheet" href="css/style.css">
-</head>
+		<!-- CSS here -->
+            <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+            <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+            <link rel="stylesheet" href="assets/css/slicknav.css">
+            <link rel="stylesheet" href="assets/css/flaticon.css">
+            <link rel="stylesheet" href="assets/css/animate.min.css">
+            <link rel="stylesheet" href="assets/css/magnific-popup.css">
+            <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
+            <link rel="stylesheet" href="assets/css/themify-icons.css">
+            <link rel="stylesheet" href="assets/css/slick.css">
+            <link rel="stylesheet" href="assets/css/nice-select.css">
+            <link rel="stylesheet" href="assets/css/style.css">
+   </head>
 
-<body>
+   <body>
+    <!-- Preloader Start -->
+    <div id="preloader-active">
+        <div class="preloader d-flex align-items-center justify-content-center">
+            <div class="preloader-inner position-relative">
+                <div class="preloader-circle"></div>
+                <div class="preloader-img pere-text">
+                    <img src="assets/img/logo/loder.PNG" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Preloader Start -->
+    <header>
+        <!-- Header Start -->
+        <div class="header-area">
+                <div class="main-header  header-sticky">
+                    <div class="container-fluid">
+                        <div class="row align-items-center">
+                            <!-- Logo -->
+                            <div class="col-xl-2 col-lg-2 col-md-1">
+                                <div class="logo">
+                                    <a href="index.html"><img src="assets/img/logo/logo.png" alt=""></a>
+                                </div>
+                            </div>
+                            <div class="col-xl-10 col-lg-10 col-md-10">
+                                <div class="menu-main d-flex align-items-center justify-content-end">
+                                    <!-- Main-menu -->
+                                    <div class="main-menu f-right d-none d-lg-block">
+                                        <nav> 
+                                            <ul id="navigation">
+                                                <li><a href="index.html">Home</a></li>
+                                                <li><a href="about.html">About</a></li>
+                                                <li><a href="services.html">Services</a></li>
+                                                <li><a href="portfolio.html">Portfolio</a></li>
+                                                <li><a href="#">Explore</a>
+                                                    <ul class="submenu">
+                                                        <li><a href="blog.html">Blog</a></li>
+                                                        <li><a href="blog_details.html">Blog Details</a></li>
+                                                        <li><a href="portfolio_details.html">Portfolio Details</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li><a href="contact.html">Contact</a></li>
+                                            </ul>
+                                        </nav>
+                                    </div>
+                                    <div class="header-right-btn f-right d-none d-xl-block ml-20">
+                                        <a href="#" class="btn header-btn">Get Free Consultant</a>
+                                    </div>
+                                </div>
+                            </div>   
+                            <!-- Mobile Menu -->
+                            <div class="col-12">
+                                <div class="mobile_menu d-block d-lg-none"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </div>
+        <!-- Header End -->
+    </header>
+    <main>
 
-	<!--================ Start Header Area =================-->
-	<header class="header_area">
-		<div class="main_menu">
-			<nav class="navbar navbar-expand-lg navbar-light">
-				<div class="container">
-					<!-- Brand and toggle get grouped for better mobile display -->
-					<a class="navbar-brand logo_h" href="index.html"><img src="img/logo.png" alt=""></a>
-					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-					 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-					</button>
-					<!-- Collect the nav links, forms, and other content for toggling -->
-					<div class="collapse navbar-collapse offset" id="navbarSupportedContent">
-						<ul class="nav navbar-nav menu_nav justify-content-end">
-							<li class="nav-item active"><a class="nav-link" href="index.html">Home</a></li>
-							<li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
-							<li class="nav-item"><a class="nav-link" href="services.html">Services</a></li>
-							<li class="nav-item"><a class="nav-link" href="portfolio.html">Portfolio</a></li>
-							<li class="nav-item submenu dropdown">
-								<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-								 aria-expanded="false">Blog</a>
-								<ul class="dropdown-menu">
-									<li class="nav-item"><a class="nav-link" href="blog.html">Blog</a></li>
-									<li class="nav-item"><a class="nav-link" href="single-blog.html">Blog Details</a></li>
-								</ul>
-							</li>
-							<li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
-						</ul>
-					</div>
-				</div>
-			</nav>
-		</div>
-	</header>
-	<!--================ End Header Area =================-->
-
-	<!--================ Start Home Banner Area =================-->
-	<section class="home_banner_area">
-		<div class="banner_inner">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-7">
-						<div class="banner_content">
-							<h3 class="text-uppercase">Hello,</h3>
-							<h1 class="text">I am Lulamile Mkhungela</h1>
-							<h5 class="text">Front-End Developer</h5>
-							<div class="d-flex align-items-center">
-								<a class="primary_btn" href="#"><span>Hire Me</span></a>
-								<a class="primary_btn tr-bg" href="#"><span>Download My CV</span></a>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-5">
-						<div class="home_right_img">
-							<img class="" src="img/undraw_teacher.svg" alt="">
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!--================ End Home Banner Area =================-->
-
-	<!--================ Start About Us Area =================-->
-	<section class="about_area section_gap">
-		<div class="container">
-			<div class="row justify-content-start align-items-center">
-				<div class="col-lg-5">
-					<div class="about_img">
-						<img class="" src="img/undraw_teaching.svg" alt="">
-					</div>
-				</div>
-
-				<div class="offset-lg-1 col-lg-5">
-					<div class="main_title text-left">
-						<h2>Let’s <br>
-							Introduce About <br>
-							Myself</h2>
-						<p>
-							Fast Forward-thinking Android developer and UX,UCD/UI designer
-with interest in mobile and web development,excellent
-understanding in UX/UI and good understanding in Back-end.
-						</p>
-						<p>I
-have knowledge with firebase, google API’S to retrieve data, create
-user input and lifecycle of activity,etc with a 3 years of working
-experience but the projects I have developed are beyond 3years of
-experience on mobile, desktop apps, websites development and
-Front-End.I am a self motivated individual, who is passionate
-about solving problems and applying solutions in every area as
-possible,can work independently/team and am also a team
-player.Knowledgeable about digital media platforms and deadlineoriented. Through these qualities, I have confidence in my ability
-to facilitate positive change and collective effort.
-						</p>
-						<a class="primary_btn" href="#"><span>Download CV</span></a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!--================ End About Us Area =================-->
-
-	<!--================  Brand Area =================-->
-	<section class="brand_area section_gap_bottom">
-		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-lg-6">
-					<div class="row">
-						<div class="col-lg-4 col-md-4 col-sm-6">
-							<div class="single-brand-item d-table">
-								<div class="d-table-cell text-center">
-									<img src="img/brands/download1.png" alt="">
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-4 col-sm-6">
-							<div class="single-brand-item d-table">
-								<div class="d-table-cell text-center">
-									<img src="img/brands/download2.png" alt="">
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-4 col-sm-6">
-							<div class="single-brand-item d-table">
-								<div class="d-table-cell text-center">
-									<img src="img/brands/download3.png" alt="">
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-4 col-sm-6">
-							<div class="single-brand-item d-table">
-								<div class="d-table-cell text-center">
-									<img src="img/brands/Download4.png" alt="">
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-4 col-sm-6">
-							<div class="single-brand-item d-table">
-								<div class="d-table-cell text-center">
-									<img src="img/brands/download9.png" alt="">
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-4 col-sm-6">
-							<div class="single-brand-item d-table">
-								<div class="d-table-cell text-center">
-									<img src="img/brands/download6.png" alt="">
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-4 col-sm-6">
-							<div class="single-brand-item d-table">
-								<div class="d-table-cell text-center">
-									<img src="img/brands/download7.png" alt="">
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-4 col-sm-6">
-							<div class="single-brand-item d-table">
-								<div class="d-table-cell text-center">
-									<img src="img/brands/download8.png" alt="">
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-4 col-sm-6">
-							<div class="single-brand-item d-table">
-								<div class="d-table-cell text-center">
-									<img src="img/brands/download5.png" alt="">
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="offset-lg-2 col-lg-4 col-md-6">
-					<div class="client-info">
-						<div class="d-flex mb-50">
-							<span class="lage">3</span>
-							<span class="smll">Years Experience Working</span>
-						</div>
-						<div class="call-now d-flex">
-							<div>
-								<span class="fa fa-phone"></span>
-							</div>
-							<div class="ml-15">
-								<p>Call Me Now</p>
-								<h3>(+27)-083-719-5064</h3>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!--================ End Brand Area =================-->
-
-	<!--================ Start Features Area =================-->
-	<section class="features_area">
-		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 text-center">
-					<div class="main_title">
-						<h2>Service Offers </h2>
-						<p>
-							Is give may shall likeness made yielding spirit a itself togeth created 
-							after sea <br> is in beast beginning signs open god you're gathering ithe
-						</p>
-					</div>
-				</div>
-			</div>
-			<div class="row feature_inner">
-				<div class="col-lg-3 col-md-6">
-					<div class="feature_item">
-						<img src="img/services/s1.png" alt="">
-						<h4>Android/Web</h4>
-						<p>Creeping for female light years that lesser can't evening heaven isn't bearing tree</p>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6">
-					<div class="feature_item">
-						<img src="img/services/s2.png" alt="">
-						<h4>UI/UX Design</h4>
-						<p>Creeping for female light years that lesser can't evening heaven isn't bearing tree</p>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6">
-					<div class="feature_item">
-						<img src="img/services/s3.png" alt="">
-						<h4> Development</h4>
-						<p>Creeping for female light years that lesser can't evening heaven isn't bearing tree</p>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6">
-					<div class="feature_item">
-						<img src="img/services/s4.png" alt="">
-						<h4>Troubleshooting</h4>
-						<p>Creeping for female light years that lesser can't evening heaven isn't bearing tree</p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!--================ End Features Area =================-->
-
-	<!--================Start Portfolio Area =================-->
-	<section class="portfolio_area section_gap_top" id="portfolio">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="main_title text-left">
-                        <h2>quality work <br>
-                            Recently done project </h2>
+        <!-- slider Area Start-->
+        <div class="slider-area ">
+            <div class="slider-active">
+                <!-- Single Slider -->
+                <div class="single-slider slider-height d-flex align-items-center">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xl-6 col-lg-6 col-md-8">
+                                <div class="hero__caption">
+                                    <span data-animation="fadeInUp" data-delay=".4s">Get Every Solutions For Your Next Project.</span>
+                                    <h1 data-animation="fadeInUp" data-delay=".6s">I’m Designer Lulamile  Mkhungela</h1>
+                                    <P data-animation="fadeInUp" data-delay=".8s" >Lorem rfpsum golor sidt amet, consectetur adipiscing elit, eiusmod tempor incididunt utcjhg labore bet dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</P>
+                                    <!-- Hero-btn -->
+                                    <div class="hero__btn">
+                                        <a href="industries.html" class="btn hero-btn"  data-animation="fadeInLeft" data-delay=".8s">Learn More</a>
+                                        <a href="industries.html" class="btn border-btn ml-15" data-animation="fadeInRight" data-delay="1.0s">Hire Me</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Single Slider -->
+                <div class="single-slider slider-height d-flex align-items-center">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xl-6 col-lg-6 col-md-8">
+                                <div class="hero__caption">
+                                    <span data-animation="fadeInUp" data-delay=".4s">Get Every Single Solutions.</span>
+                                    <h2 data-animation="fadeInUp" data-delay=".2s">I’m Designer Lulamile Mkhungela</h2>
+                                    <P data-animation="fadeInUp" data-delay=".8s" >Lorem ipsum golor sidt amet, consectetur adipiscing elit, eiusmod tempor incididunt utcjhg labore bet dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</P>
+                                    <!-- Hero-btn -->
+                                    <div class="hero__btn">
+                                        <a href="industries.html" class="btn hero-btn"  data-animation="fadeInLeft" data-delay=".8s">Learn More</a>
+                                        <a href="industries.html" class="btn border-btn ml-15" data-animation="fadeInRight" data-delay="1.0s">Hire Me</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="filters portfolio-filter">
-                <ul>
-                    <li class="active" data-filter="*">All</li>
-                    <li data-filter=".popular">Popular</li>
-                    <li data-filter=".latest"> latest</li>
-                    <li data-filter=".following">Following</li>
-                    <li data-filter=".upcoming">Upcoming</li>
-                </ul>
-            </div>
-    
-            <div class="filters-content">
-				<div class="row portfolio-grid justify-content-center">
-					<div class="col-lg-4 col-md-6 all latest">
-						<div class="portfolio_box">
-							<div class="single_portfolio">
-								<img class="img-fluid w-100" src="img/portfolio/p9.PNG" alt="">
-								<div class="overlay"></div>
-								<a href="img/portfolio/p9.PNG" class="img-gal">
-									<div class="icon">
-										<span class="lnr lnr-cross"></span>
-									</div>
-								</a>
-							</div>
-							<div class="short_info">
-								<h4><a href="portfolio-details.html">OpenSesyme Re-Design</a></h4>
-								<p>Animated, Portfolio</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4 col-md-6 all popular">
-						<div class="portfolio_box">
-							<div class="single_portfolio">
-								<img class="img-fluid w-100" src="img/portfolio/p6.PNG" alt="">
-								<div class="overlay"></div>
-								<a href="img/portfolio/p6.PNG" class="img-gal">
-									<div class="icon">
-										<span class="lnr lnr-cross"></span>
-									</div>
-								</a>
-							</div>
-							<div class="short_info">
-								<h4><a href="portfolio-details.html">Person Design</a></h4>
-								<p>Animated, Portfolio</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4 col-md-6 all latest">
-						<div class="portfolio_box">
-							<div class="single_portfolio">
-								<img class="img-fluid w-100" src="img/portfolio/pp.jpeg" alt="">
-								<div class="overlay"></div>
-								<a href="img/portfolio/pps.jpeg" class="img-gal">
-									<div class="icon">
-										<span class="lnr lnr-cross"></span>
-									</div>
-								</a>
-							</div>
-							<div class="short_info">
-								<h4><a href="portfolio-details.html">Android App</a></h4>
-								<p>Animated, Portfolio</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4 col-md-6 all popular">
-						<div class="portfolio_box">
-							<div class="single_portfolio">
-								<img class="img-fluid w-100" src="img/portfolio/p1.PNG" alt="">
-								<div class="overlay"></div>
-								<a href="img/portfolio/p1.PNG" class="img-gal">
-									<div class="icon">
-										<span class="lnr lnr-cross"></span>
-									</div>
-								</a>
-							</div>
-							<div class="short_info">
-								<h4><a href="portfolio-details.html">Question&Amswer</a></h4>
-								<p>Animated, Portfolio</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4 col-md-6 all following">
-						<div class="portfolio_box">
-							<div class="single_portfolio">
-								<img class="img-fluid w-100" src="img/portfolio/pps.jpeg" alt="">
-								<div class="overlay"></div>
-								<a href="img/portfolio/pps.jpeg" class="img-gal">
-									<div class="icon">
-										<span class="lnr lnr-cross"></span>
-									</div>
-								</a>
-							</div>
-							<div class="short_info">
-								<h4><a href="portfolio-details.html">Sesyme App</a></h4>
-								<p>Animated, Portfolio</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4 col-md-6 all upcoming">
-						<div class="portfolio_box">
-							<div class="single_portfolio">
-								<img class="img-fluid w-100" src="img/portfolio/p8.PNG" alt="">
-								<div class="overlay"></div>
-								<a href="img/portfolio/p8.PNG" class="img-gal">
-									<div class="icon">
-										<span class="lnr lnr-cross"></span>
-									</div>
-								</a>
-							</div>
-							<div class="short_info">
-								<h4><a href="portfolio-details.html">I-Learn Website</a></h4>
-								<p>Animated, Portfolio</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4 col-md-6 all upcoming following">
-						<div class="portfolio_box">
-							<div class="single_portfolio">
-								<img class="img-fluid w-100" src="img/portfolio/p7.PNG" alt="">
-								<div class="overlay"></div>
-								<a href="img/portfolio/p7.PNG" class="img-gal">
-									<div class="icon">
-										<span class="lnr lnr-cross"></span>
-									</div>
-								</a>
-							</div>
-							<div class="short_info">
-								<h4><a href="portfolio-details.html">Loux Logo</a></h4>
-								<p>Animated, Portfolio</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4 col-md-6 all following">
-						<div class="portfolio_box">
-							<div class="single_portfolio">
-								<img class="img-fluid w-100" src="img/portfolio/Picture1.png" alt="">
-								<div class="overlay"></div>
-								<a href="img/Picture1.png" class="img-gal">
-									<div class="icon">
-										<span class="lnr lnr-cross"></span>
-									</div>
-								</a>
-							</div>
-							<div class="short_info">
-								<h4>Co-Working Space App</h4>
-								<p>Animated, Portfolio</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4 col-md-6 all upcoming">
-						<div class="portfolio_box">
-							<div class="single_portfolio">
-								<img class="img-fluid w-100" src="img/portfolio/p4.PNG" alt="">
-								<div class="overlay"></div>
-								<a href="img/portfolio/p4.PNG" class="img-gal">
-									<div class="icon">
-										<span class="lnr lnr-cross"></span>
-									</div>
-								</a>
-							</div>
-							<div class="short_info">
-								<h4><a href="portfolio-details.html">Season Face</a></h4>
-								<p>Animated, Portfolio</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
         </div>
-    </section>
-    <!--================End Portfolio Area =================-->
-	<!--================ Start Testimonial Area =================-->
-	<div class="testimonial_area section_gap_bottom">
-		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-lg-8 text-center">
-					<div class="main_title">
-						<h2>Look What My Clients Say About Me</h2>
-						<p>Is give may shall likeness made yielding spirit a itself togeth created after sea is in beast <br>
-							 beginning signs open god you're gathering ithe</p>
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="testi_slider owl-carousel">
-        			<div class="testi_item">
-        				<div class="row">
-        					<div class="col-lg-4">
-        						<img src="img/testimonials/0.PNG" alt="">
-        					</div>
-        					<div class="col-lg-8">
-        						<div class="testi_text">
-        							<h4>Molemo Mai</h4>
-									<p>Him, made can't called over won't there on divide there male fish beast own his day third seed sixth seas unto. Saw from </p>
-        						</div>
-        					</div>
-        				</div>
-        			</div>
-        			<div class="testi_item">
-        				<div class="row">
-        					<div class="col-lg-4">
-        						<img src="img/testimonials/1.PNG" alt="">
-        					</div>
-        					<div class="col-lg-8">
-        						<div class="testi_text">
-        							<h4>Reginah Puseletso</h4>
-									<p>Him, made can't called over won't there on divide there male fish beast own his day third seed sixth seas unto. Saw from </p>
-        						</div>
-        					</div>
-        				</div>
-        			</div>
-        			<div class="testi_item">
-        				<div class="row">
-        					<div class="col-lg-4">
-        						<img src="img/testimonials/2.PNG" alt="">
-        					</div>
-        					<div class="col-lg-8">
-        						<div class="testi_text">
-        							<h4>Sphelele Myeni</h4>
-									<p>Him, made can't called over won't there on divide there male fish beast own his day third seed sixth seas unto. Saw from </p>
-        						</div>
-        					</div>
-        				</div>
-        			</div>
-        			<div class="testi_item">
-        				<div class="row">
-        					<div class="col-lg-4">
-        						<img src="img/testimonials/4.PNG" alt="">
-        					</div>
-        					<div class="col-lg-8">
-        						<div class="testi_text">
-        							<h4>Lestja Mello</h4>
-									<p>Him, made can't called over won't there on divide there male fish beast own his day third seed sixth seas unto. Saw from </p>
-        						</div>
-        					</div>
-        				</div>
-        			</div>
-        			<div class="testi_item">
-        				<div class="row">
-        					<div class="col-lg-4">
-        						<img src="img/testimonials/3.PNG" alt="">
-        					</div>
-        					<div class="col-lg-8">
-        						<div class="testi_text">
-        							<h4>Arnaud Kim</h4>
-									<p>Him, made can't called over won't there on divide there male fish beast own his day third seed sixth seas unto. Saw from </p>
-        						</div>
-        					</div>
-        				</div>
-        			</div>
-        			<div class="testi_item">
-        				<div class="row">
-        					<div class="col-lg-4">
-        						<img src="img/testimonials/5.PNG" alt="">
-        					</div>
-        					<div class="col-lg-8">
-        						<div class="testi_text">
-        							<h4>Makgala Ramotsoenyane
-									</h4>
-									<p>Him, made can't called over won't there on divide there male fish beast own his day third seed sixth seas unto. Saw from </p>
-        						</div>
-        					</div>
-        				</div>
-        			</div>
-        		</div>
-			</div>
-		</div>
-	</div>
-	<!--================ End Testimonial Area =================-->
+        <!-- slider Area End-->
+        <!-- About Area start -->
+        <section class="about-area section-paddingt30">
+            <div class="container">
+                <div class="row ">
+                    <div class="col-lg-5">
+                        <div class="about-caption mb-50">
+                            <h3>Designing With Passion While Exploring The World.</h3>
+                            <p class="pera1">Consectetur adipiscing elit, sed do eiusmod tempor ididunt ut labore et dolore magna aliqua. Quis ipsum suspendisces gravida. Risus commodo viverra sebfd dho eiusmod tempor maecenas accumsan lacus.</p>
+                            <p>Consectetur adipiscing elit, sed do eiusmod tempor ididunt ut labore et dolore magna aliqua. </p>
+                        </div>
+                    </div>
+                    <div class="col-lg-5 offset-lg-1">
+                        <div class="about-caption2">
+                            <h3>Submit Any Type Of Your Query<br> & Discussion</h3>
+                            <p>Let's Talk Business</p>
+                           <div class="send-cv">
+                                <a href="#">mkhungela.l@gmail.com</a>
+                                <i class="ti-arrow-right"></i>
+                           </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- About Area End -->
+        <!-- Categories Area Start -->
+        <section class="categories-area section-padding3">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <!-- Section Tittle -->
+                        <div class="section-tittle mb-70">
+                            <h2>What Services you will Get from me!</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="single-cat text-center mb-50">
+                            <div class="cat-icon">
+                                <span class="flaticon-pen"></span>
+                            </div>
+                            <div class="cat-cap">
+                                <h5><a href="services.html">UI/UX Design</a></h5>
+                                <p>Free resource that will help nderstand thecv designc process and improve theroi  nderstand the design process andisei impro are of vquality.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="single-cat text-center mb-50">
+                            <div class="cat-icon">
+                                <span class="flaticon-speaker"></span>
+                            </div>
+                            <div class="cat-cap">
+                                <h5><a href="services.html">Digital Marketing</a></h5>
+                                <p>Free resource that will help nderstand thecv designc process and improve theroi  nderstand the design process andisei impro are of vquality.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="single-cat text-center mb-50">
+                            <div class="cat-icon">
+                                <span class="flaticon-portfolio"></span>
+                            </div>
+                            <div class="cat-cap">
+                                <h5><a href="services.html">App/Web Design</a></h5>
+                                <p>Free resource that will help nderstand thecv designc process and improve theroi  nderstand the design process andisei impro are of vquality.</p>
+                            </div>
+                        </div>
+                    </div>
+                 </div>
+            </div>
+        </section>
+        <!-- Categories Area End -->
+        <!-- Services Area Start -->
+        <section class="services-area  services-padding">
+            <div class="container">
+               <div class="project-heading mb-35">
+                    <div class="row align-items-end">
+                        <div class="col-lg-6">
+                            <!-- Section Tittle -->
+                            <div class="section-tittle">
+                                <h2>What Services you will Get from me!</h2>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="properties__button">
+                                <!--Nav Button  -->                                            
+                                <nav>
+                                    <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                                        <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="false"> All</a>
+                                        <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false"> Branding</a>
+                                        <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-contact" role="tab" aria-controls="nav-contact" aria-selected="false">Logo</a>
+                                        <a class="nav-item nav-link" id="nav-last-tab" data-toggle="tab" href="#nav-last" role="tab" aria-controls="nav-contact" aria-selected="false">UI/UX </a>
+                                        <a class="nav-item nav-link" id="nav-technology" data-toggle="tab" href="#nav-techno" role="tab" aria-controls="nav-contact" aria-selected="false">Web Design</a>
+                                    </div>
+                                </nav>
+                                <!--End Nav Button  -->
+                            </div>
+                        </div>
+                    </div>
+               </div>
+                <div class="row">
+                    <div class="col-12">
+                        <!-- Nav Card -->
+                        <div class="tab-content active" id="nav-tabContent">
+                            <!-- card ONE -->
+                            <div class="tab-pane fade active show" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">           
+                                <div class="services-caption">
+                                    <div class="row">
+                                        <div class="col-lg-8 col-md-8 col-sm-8">
+                                            <!-- Single -->
+                                            <div class="single-services mb-30">
+                                                <img src="assets/img/service/services1.png" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-4 col-sm-4">
+                                            <div class="row">
+                                                <div class="col-lg-12">
+                                                    <!-- Single -->
+                                                    <div class="single-services mb-30">
+                                                        <img src="assets/img/service/services2.png" alt="">
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-12">
+                                                    <!-- Single -->
+                                                    <div class="single-services mb-30">
+                                                        <img src="assets/img/service/services3.png" alt="">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-4 col-sm-4">
+                                            <!-- Single -->
+                                            <div class="single-services mb-30">
+                                                <img src="assets/img/service/services4.png" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-4 col-sm-4">
+                                            <!-- Single -->
+                                            <div class="single-services mb-30">
+                                                <img src="assets/img/service/services5.png" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-4 col-sm-4">
+                                            <!-- Single -->
+                                            <div class="single-services mb-30">
+                                                <img src="assets/img/service/services6.png" alt="">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Card TWO -->
+                            <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+                                <div class="services-caption">
+                                    <div class="row">
+                                        <div class="col-lg-8 col-md-8 col-sm-8">
+                                            <!-- Single -->
+                                            <div class="single-services mb-30">
+                                                <img src="assets/img/service/services6.png" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-4 col-sm-4">
+                                            <div class="row">
+                                                <div class="col-lg-12">
+                                                    <!-- Single -->
+                                                    <div class="single-services mb-30">
+                                                        <img src="assets/img/service/services2.png" alt="">
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-12">
+                                                    <!-- Single -->
+                                                    <div class="single-services mb-30">
+                                                        <img src="assets/img/service/services3.png" alt="">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-4 col-sm-4">
+                                            <!-- Single -->
+                                            <div class="single-services mb-30">
+                                                <img src="assets/img/service/services4.png" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-4 col-sm-4">
+                                            <!-- Single -->
+                                            <div class="single-services mb-30">
+                                                <img src="assets/img/service/services5.png" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-4 col-sm-4">
+                                            <!-- Single -->
+                                            <div class="single-services mb-30">
+                                                <img src="assets/img/service/services1.png" alt="">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Card THREE -->
+                            <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
+                                <div class="services-caption">
+                                    <div class="row">
+                                        <div class="col-lg-8 col-md-8 col-sm-8">
+                                            <!-- Single -->
+                                            <div class="single-services mb-30">
+                                                <img src="assets/img/service/services2.png" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-4 col-sm-4">
+                                            <div class="row">
+                                                <div class="col-lg-12">
+                                                    <!-- Single -->
+                                                    <div class="single-services mb-30">
+                                                        <img src="assets/img/service/services1.png" alt="">
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-12">
+                                                    <!-- Single -->
+                                                    <div class="single-services mb-30">
+                                                        <img src="assets/img/service/services3.png" alt="">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-4 col-sm-4">
+                                            <!-- Single -->
+                                            <div class="single-services mb-30">
+                                                <img src="assets/img/service/services4.png" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-4 col-sm-4">
+                                            <!-- Single -->
+                                            <div class="single-services mb-30">
+                                                <img src="assets/img/service/services5.png" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-4 col-sm-4">
+                                            <!-- Single -->
+                                            <div class="single-services mb-30">
+                                                <img src="assets/img/service/services6.png" alt="">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- card FUR -->
+                            <div class="tab-pane fade" id="nav-last" role="tabpanel" aria-labelledby="nav-last-tab">
+                                <div class="services-caption">
+                                    <div class="row">
+                                        <div class="col-lg-8 col-md-8 col-sm-8">
+                                            <!-- Single -->
+                                            <div class="single-services mb-30">
+                                                <img src="assets/img/service/services1.png" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-4 col-sm-4">
+                                            <div class="row">
+                                                <div class="col-lg-12">
+                                                    <!-- Single -->
+                                                    <div class="single-services mb-30">
+                                                        <img src="assets/img/service/services2.png" alt="">
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-12">
+                                                    <!-- Single -->
+                                                    <div class="single-services mb-30">
+                                                        <img src="assets/img/service/services3.png" alt="">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-4 col-sm-4">
+                                            <!-- Single -->
+                                            <div class="single-services mb-30">
+                                                <img src="assets/img/service/services4.png" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-4 col-sm-4">
+                                            <!-- Single -->
+                                            <div class="single-services mb-30">
+                                                <img src="assets/img/service/services5.png" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-4 col-sm-4">
+                                            <!-- Single -->
+                                            <div class="single-services mb-30">
+                                                <img src="assets/img/service/services6.png" alt="">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- card FIVE -->
+                            <div class="tab-pane fade" id="nav-techno" role="tabpanel" aria-labelledby="nav-technology">
+                                <div class="services-caption">
+                                    <div class="row">
+                                        <div class="col-lg-8 col-md-8 col-sm-8">
+                                            <!-- Single -->
+                                            <div class="single-services mb-30">
+                                                <img src="assets/img/service/services3.png" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-4 col-sm-4">
+                                            <div class="row">
+                                                <div class="col-lg-12">
+                                                    <!-- Single -->
+                                                    <div class="single-services mb-30">
+                                                        <img src="assets/img/service/services2.png" alt="">
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-12">
+                                                    <!-- Single -->
+                                                    <div class="single-services mb-30">
+                                                        <img src="assets/img/service/services1.png" alt="">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-4 col-sm-4">
+                                            <!-- Single -->
+                                            <div class="single-services mb-30">
+                                                <img src="assets/img/service/services4.png" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-4 col-sm-4">
+                                            <!-- Single -->
+                                            <div class="single-services mb-30">
+                                                <img src="assets/img/service/services5.png" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-4 col-sm-4">
+                                            <!-- Single -->
+                                            <div class="single-services mb-30">
+                                                <img src="assets/img/service/services6.png" alt="">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    <!-- End Nav Card -->
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Services Area End -->
+        <!-- Want To Work Start -->
+        <section class="wantToWork-area w-padding2">
+            <div class="container">
+                <div class="row align-items-center justify-content-between">
+                    <div class="col-xl-6 col-lg-8 col-md-8">
+                        <div class="wantToWork-caption wantToWork-caption2">
+                            <h2>Dont worry for contact I'm available</h2>
+                        </div>
+                    </div>
+                    <div class="col-xl-2 col-lg-2 col-md-3">
+                        <a href="#" class="btn btn-black f-right">Contact Me Now</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Want To Work End -->
 
-	<!--================ Start Newsletter Area =================-->
-	<section class="newsletter_area">
-		<div class="container">
-			<div class="row justify-content-center align-items-center">
-				<div class="col-lg-12">
-					<div class="subscription_box text-center">
-						<h2 class="text-uppercase text-white">Stay In The Know & get updates from anywhere</h2>
-						<p class="text-white">
-							Bearing Void gathering light light his eavening unto dont afraid. 
-						</p>
-						<div class="subcribe-form" id="mc_embed_signup">
-							<form target="_blank" novalidate="true" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="subscription relative">
-								<input name="EMAIL" placeholder="Email address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email address'" required="" type="email">
-								<div style="position: absolute; left: -5000px;">
-									<input name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value="" type="text">
-								</div>
-								<button class="primary-btn hover d-inline">Get Started</button>
-								<div class="info"></div>
-							</form>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!--================ End Newsletter Area =================-->
+        <!-- client-comments -->
+        <section class="client-comments section-paddingt30">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6 col-lg-8 col-md-10">
+                        <!-- Section Tittle -->
+                        <div class="section-tittle mb-70">
+                            <h2>Look What My Fantastic Clients Say About Me</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- latest-blog-area start -->
+            <div class="latest-blog-area">
+                <div class="container">
+                    <div class="custom-row">
+                        <div class="blog-active">
+                            <!-- single-items -->
+                            <div class="col-xl-4">
+                                <div class="blog-wrapper">
+                                    <div class="blog-inner">
+                                    <div class="blog-top">
+                                            <div class="person-img">
+                                                <img src="assets/img/gallery/blog1.png" alt="">
+                                            </div>
+                                            <div class="comment-person">
+                                                <h2>Nolly Nollz</h2>   
+                                                <span>Database Admin</span>
+                                            </div>
+                                    </div>
+                                        <p>Consectetur adipisicing elit, seddosdoe eiusmod tempor incididunt utore etstes dolore magna aliqua. Ut imminim restai veniam, quis nostrud.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- single-items -->
+                            <div class="col-xl-4">
+                                <div class="blog-wrapper">
+                                    <div class="blog-inner">
+                                    <div class="blog-top">
+                                            <div class="person-img">
+                                                <img src="assets/img/gallery/blog2.png" alt="">
+                                            </div>
+                                            <div class="comment-person">
+                                                <h2>Molemo Mai</h2>   
+                                                <span>Oracle Admin</span>
+                                            </div>
+                                    </div>
+                                        <p>Consectetur adipisicing elit, seddosdoe eiusmod tempor incididunt utore etstes dolore magna aliqua. Ut imminim restai veniam, quis nostrud.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- single-items -->
+                            <div class="col-xl-4">
+                                <div class="blog-wrapper">
+                                    <div class="blog-inner">
+                                    <div class="blog-top">
+                                            <div class="person-img">
+                                                <img src="assets/img/gallery/blog3.png" alt="">
+                                            </div>
+                                            <div class="comment-person">
+                                                <h2>Bradley Erickson</h2>   
+                                                <span>UI/UX Designer</span>
+                                            </div>
+                                    </div>
+                                        <p>Consectetur adipisicing elit, seddosdoe eiusmod tempor incididunt utore etstes dolore magna aliqua. Ut imminim restai veniam, quis nostrud.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- single-items -->
+                            <div class="col-xl-4">
+                                <div class="blog-wrapper">
+                                    <div class="blog-inner">
+                                    <div class="blog-top">
+                                            <div class="person-img">
+                                                <img src="assets/img/gallery/blog2.png" alt="">
+                                            </div>
+                                            <div class="comment-person">
+                                                <h2>Ronald Modiba</h2>   
+                                                <span>Graphic Designer</span>
+                                            </div>
+                                    </div>
+                                        <p>Consectetur adipisicing elit, seddosdoe eiusmod tempor incididunt utore etstes dolore magna aliqua. Ut imminim restai veniam, quis nostrud.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>           
+            <!-- End latest-blog-area -->
+        </section>
+        <!-- Brand Area Start -->
+        <div class="brand-area pb-bottom">
+            <div class="container">
+                <div class="brand-active brand-border pt-50 pb-40">
+                    <div class="single-brand">
+                        <img src="assets/img/gallery/brand1.png" alt="">
+                    </div>
+                    <div class="single-brand">
+                        <img src="assets/img/gallery/brand2.png" alt="">
+                    </div>
+                    <div class="single-brand">
+                        <img src="assets/img/gallery/brand3.png" alt="">
+                    </div>
+                    <div class="single-brand">
+                        <img src="assets/img/gallery/brand4.png" alt="">
+                    </div>
+                    <div class="single-brand">
+                        <img src="assets/img/gallery/brand2.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Brand Area End -->
+        <!-- Contact Info Start -->
+        <section class="contact-info-area w-padding2" data-background="assets/img/gallery/section_bg04.jpg">
+            <div class="container">
+                <div class="row justify-content-between">
+                    <div class="col-xl-5 col-lg-7">
+                      <div class="contact-caption mb-50">
+                            <h3>If Not Now, When? Let’s Work Together!</h3>
+                            <p>Consectetur adipiscing elit, sed do eiusmod tempor ididunt ut labore et dolore magna aliqua. Quis ipsum suspendisces gravida. Risus commodo viverra.</p>
+                            <img src="assets/img/gallery/sin.png" alt="">
+                      </div>
+                    </div>
+                    <div class="col-xl-5 col-lg-5">
+                        <form action="#" class="contact-wrapper">
+                            <input type="text" name="name" placeholder="Full Name">
+                            <input type="email" name="email" placeholder="Email Address">
+                            <textarea name="message" id="message" placeholder="Your Message"></textarea>
+                            <button class="submit-btn2" type="submit">Send Message</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Contact Info End -->
 
-	<!--================Footer Area =================-->
-	<footer class="footer_area">
-		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-lg-12">
-					<div class="footer_top flex-column">
-						<div class="footer_logo">
-							<a href="#">
-								<img src="img/logo.png" alt="">
-							</a>
-							<h4>Let's Be Social & Follow Me</h4>
-						</div>
-						<div class="footer_social">
-							<a href="https://www.linkedin.com/in/lulamile-mkhungela/"><i class="fa fa-linkedin"></i></a>
-							<a href="#"><i class="fa fa-instagram"></i></a>
-							<a href="https://twitter.com/L_Mkhungela"><i class="fa fa-twitter"></i></a>
-							<a href="https://github.com/LulamileMkhungela"><i class="fa fa-github"></i></a>
-							<a href="https://www.behance.net/lulamilemkhungela"><i class="fa fa-behance"></i></a>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="row footer_bottom justify-content-center">
-				<p class="col-lg-8 col-sm-12 footer-text">
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Designed & Created With <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://google.com" target="_blank">Lulamile Mkhungela</a>
-</p>
-			</div>
-		</div>
-	</footer>
-	<!--================End Footer Area Ending =================-->
+    </main>
+    <footer>
+         <!-- Footer Start-->
+         <div class="footer-area">
+            <div class="container">
+               <div class="footer-top footer-padding">
+                   <div class="row justify-content-center">
+                       <div class="col-lg-6">
+                            <div class="footer-top-cap text-center">
+                                <img src="assets/img/logo/logo2_footer.png" alt="">
+                               <span><a href="#">mkhungela.l@gmail.com</a></span>
+                                <p>43 WestCliff Drive, ParkView </p>
+                                <p>Randburg,2122</p>
+                            </div>
+                       </div>
+                   </div>
+               </div>
+                <div class="footer-bottom">
+                    <div class="row d-flex justify-content-between align-items-center">
+                        <div class="col-xl-9 col-lg-8">
+                            <div class="footer-copy-right">
+                               <p>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Designed & Created With <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Lulamile Mkhungela</a>
+  </p>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-4">
+                            <!-- Footer Social -->
+                            <div class="footer-social f-right">
+                                <a>Let's Stay Connected</a>
+                                <a href="https://twitter.com/L_Mkhungela"><i class="fab fa-twitter"></i></a>
+                                <a href="https://www.behance.net/lulamilemkhungela"><i class="fab fa-behance"></i></a>
+                                <a href="https://github.com/LulamileMkhungela"><i class="fab fa-github"></i></a>
+                            </div>
+                        </div>
+                    </div>
+               </div>
+            </div>
+        </div>
+        <!-- Footer End-->
+    </footer>
+    <!-- Scroll Up -->
+    <div id="back-top" >
+        <a title="Go to Top" href="#"> <i class="fas fa-level-up-alt"></i></a>
+    </div>
 
-	<!-- Optional JavaScript -->
-	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
-	<script src="js/jquery-3.2.1.min.js"></script>
-	<script src="js/popper.js"></script>
-	<script src="js/bootstrap.min.js"></script>
-	<script src="js/stellar.js"></script>
-	<script src="js/jquery.magnific-popup.min.js"></script>
-	<script src="vendors/nice-select/js/jquery.nice-select.min.js"></script>
-	<script src="vendors/isotope/imagesloaded.pkgd.min.js"></script>
-	<script src="vendors/isotope/isotope-min.js"></script>
-	<script src="vendors/owl-carousel/owl.carousel.min.js"></script>
-	<script src="js/jquery.ajaxchimp.min.js"></script>
-	<script src="js/mail-script.js"></script>
-	<!--gmaps Js-->
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE"></script>
-	<script src="js/gmaps.min.js"></script>
-	<script src="js/theme.js"></script>
-</body>
 
+    <!-- JS here -->
+		<!-- All JS Custom Plugins Link Here here -->
+        <script src="./assets/js/vendor/modernizr-3.5.0.min.js"></script>
+		<!-- Jquery, Popper, Bootstrap -->
+		<script src="./assets/js/vendor/jquery-1.12.4.min.js"></script>
+        <script src="./assets/js/popper.min.js"></script>
+        <script src="./assets/js/bootstrap.min.js"></script>
+	    <!-- Jquery Mobile Menu -->
+        <script src="./assets/js/jquery.slicknav.min.js"></script>
+
+		<!-- Jquery Slick , Owl-Carousel Plugins -->
+        <script src="./assets/js/owl.carousel.min.js"></script>
+        <script src="./assets/js/slick.min.js"></script>
+		<!-- One Page, Animated-HeadLin -->
+        <script src="./assets/js/wow.min.js"></script>
+		<script src="./assets/js/animated.headline.js"></script>
+        <script src="./assets/js/jquery.magnific-popup.js"></script>
+
+		<!-- Nice-select, sticky -->
+        <script src="./assets/js/jquery.nice-select.min.js"></script>
+		<script src="./assets/js/jquery.sticky.js"></script>
+        
+        <!-- contact js -->
+        <script src="./assets/js/contact.js"></script>
+        <script src="./assets/js/jquery.form.js"></script>
+        <script src="./assets/js/jquery.validate.min.js"></script>
+        <script src="./assets/js/mail-script.js"></script>
+        <script src="./assets/js/jquery.ajaxchimp.min.js"></script>
+        
+		<!-- Jquery Plugins, main Jquery -->	
+        <script src="./assets/js/plugins.js"></script>
+        <script src="./assets/js/main.js"></script>
+        
+    </body>
 </html>
