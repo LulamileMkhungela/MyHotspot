@@ -184,7 +184,7 @@ figure {
   margin-bottom: 1.5rem;
   background-color: #292929;
   background-image: url('../images/shape-tinia-bottom_1.png'), -webkit-gradient(linear, left bottom, left top, from(rgba(0, 0, 0, 0.39)), color-stop(35%, hsla(0, 0%, 100%, 0))), url('../images/design-critique-item@2x-1024x692.jpg');
-  background-image: url('../images/shape-tinia-bottom_1.png'), linear-gradient(0deg, rgba(0, 0, 0, 0.39), hsla(0, 0%, 100%, 0) 35%), url('../images/design-critique-item@2x-1024x692.jpg');
+  background-image: url('../images/shape-tinia-bottom_1.png'), linear-gradient(0deg, rgba(0, 0, 0, 0.39), hsla(0, 0%, 100%, 0) 35%), url('../images/ux-speed-dating-user-research-testing-usability-designers-app-usabildade-1024x768.jpg');
   background-position: 50% 100%, 0px 0px, 50% 50%;
   background-size: contain, auto, cover;
   background-repeat: no-repeat, repeat, no-repeat;
@@ -720,7 +720,7 @@ l
   padding-left: 0px;
   border-top-left-radius: 8px;
   border-bottom-left-radius: 8px;
-  background-image: url('../images/uber-comparison-jonny-czar-the-power-of-visual-design-product.jpg');
+  background-image: url('../images/researcher.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
