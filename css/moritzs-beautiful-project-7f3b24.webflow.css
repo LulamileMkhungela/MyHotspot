@@ -706,6 +706,24 @@ l
   background-position: 50% 50%;
   background-size: cover;
 }
+.big-article-image-wrapper1 {
+  width: 58.33333333%;
+  padding-left: 0px;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+  background-image: url('../images/TINIA-Mockups-3.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+.big-article-image-wrapper3 {
+  width: 58.33333333%;
+  padding-left: 0px;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+  background-image: url('../images/uber-comparison-jonny-czar-the-power-of-visual-design-product.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
 
 .big-article-image-wrapper.ggc-bg {
   background-image: url('../images/header-group.jpg');
@@ -714,6 +732,10 @@ l
 .big-article-image-wrapper.jka-thumb {
   background-image: url('../images/jka-thumbnail.jpg');
 }
+.big-article-image-wrapper.jka-thumb2 {
+  background-image: url('../images/interface-genius-3-970x1024.jpg');
+}
+
 
 .body-3 {
   background-color: #fafafa;
