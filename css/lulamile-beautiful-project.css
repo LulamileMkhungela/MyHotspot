@@ -2362,6 +2362,30 @@ l
 }
 
 /*--------------------------------------------------------------
+# Back,Next and Home Buttons
+--------------------------------------------------------------*/
+
+
+.portfolio #portfolio-flters li {
+  cursor: pointer;
+  display: inline-block;
+  padding: 10px 15px 8px 15px;
+  font-size: 14px;
+  font-weight: 600;
+  position: absolute;
+  padding-right: 100px;
+  line-height: 1;
+  position: relative;
+  text-transform: uppercase;
+  color: #272829;
+  margin-bottom: 5px;
+  transition: all 0.3s ease-in-out;
+}
+
+
+
+
+/*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
 .resume .resume-title {
