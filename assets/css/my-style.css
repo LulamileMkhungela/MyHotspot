@@ -6209,4 +6209,37 @@ h2.title {
   }
 
   /* approach */
-  
+  .rich-text-block {
+  display: block;
+  width: 100%;
+  max-width: 740px;
+  margin-top: 7rem;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 20px;
+  padding-left: 20px;
+  font-size: 16px;
+  line-height: 1.55em;
+}
+
+.rich-text-block p {
+  margin-bottom: 22px;
+  color: #555;
+}
+
+.rich-text-block h2 {
+  margin-top: 24px;
+  margin-bottom: 0px;
+  font-size: 1.5em;
+  line-height: 1.3em;
+}
+
+.rich-text-block ul {
+  padding-left: 28px;
+  color: #555;
+}
+
+.rich-text-block h3 {
+  font-size: 18px;
+  line-height: 24px;
+}
