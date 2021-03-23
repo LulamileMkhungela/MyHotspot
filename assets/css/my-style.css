@@ -2832,8 +2832,8 @@ legend {
 @media (max-width: 767px) {
     .navbar .navbar-nav .navbar-text {
         color: inherit;
-        margin-top: 15px;
-        margin-bottom: 15px;
+        margin-top: 28px;
+        margin-bottom: 28px;
     }
 
     .navbar .navbar-nav .open .dropdown-menu > .dropdown-header {
