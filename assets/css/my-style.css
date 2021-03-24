@@ -4473,6 +4473,12 @@ hr.on-light {
     padding-top: 15px;
     padding-bottom: 15px;
 }
+.width {
+    width: 100%;
+        padding-bottom: 0px;
+
+
+}
 
 .fullw {
     width: 100%;
