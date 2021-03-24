@@ -3845,8 +3845,8 @@ h2.title {
 }
 
 .cover {
-    margin-top: 5em;
-    margin-bottom: 2rem;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 .skill {
