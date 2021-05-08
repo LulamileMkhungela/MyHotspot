@@ -7,6 +7,12 @@ body {
     /* WebKit/Blink Browsers */
     color: #fff;
 }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
 
 ::-moz-selection {
     background: #1769ff;
