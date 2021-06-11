@@ -1,143 +1,308 @@
-LIFELONG LEARNING MATTERS FEB. 21, 2018
-When it comes to self-improvement, we know a lot of methods. To get fit, you eat right and exercise. To grow in physical strength, you train and lift weights. To improve your memory, you get enough sleep and intentionally learn new things.
+<!DOCTYPE html>
 
-But what can you do to improve and grow in your career?
+<html lang="en">
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<head>
+    <meta charset="utf-8">
+    <link href="assets/img/favicon.png" rel="icon" type="image/png">
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
 
-Regardless of where you’re at—whether you’re a senior manager or an entry-level employee on the front lines—you can continue to grow and advance your career and professional goals.
+    <title>Seminars- Let me help you in reviewing your portfolio and re-designing it together</title>
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+    <!--     Fonts and icons     -->
+    <link href="../../maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+    <!-- CSS Files -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/css/my-style.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/aos.css">
+    <link rel="stylesheet" href="../../cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.css">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-105315795-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
 
-And higher education gives you the shoes to take that next step.
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
 
-A Forbes article by Jacquelyn Smith states that many adults return to school to enhance their career. The article cites author Laura Vanderkamp in saying that many believe “additional education will help them achieve their career goals, like making more money, advancing in their current occupation, or starting in a different one.”
+        gtag('config', 'UA-105315795-1');
+    </script>
 
-Additionally, the article mentions from career coach Nancy Collamer that most return to school “to bolster their range of marketable skills and credentials, which, in turn, makes them more competitive—both at their current employer and in the overall job market.”
+</head>
 
-And, according to 2014 Pew Research, college graduates ages 25-32 earn $17,000 more each year than those with just a high school diploma.
+<body class="index-page">
 
-Education is an influential step in staying competitive and enhancing your skills. Whether you’re starting out in your career or returning to continue to build upon your years of experience, pursuing educational training helps you keep moving forward.
+    <div class="progress-container">
+        <div class="progress-bar2" id="myBar"></div>
+    </div>
 
-Here, we share five reasons why pursuing education can advance your career at any level.
+    <!-- Navbar -->
+    <nav class="navbar navbar-transparent navbar-absolute">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
 
+
+            <div class="navbar-header">
+                <button class="navbar-toggle" data-target="#navigation-example" data-toggle="collapse" type="button"><span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span><span class="icon-bar"></span></button><img class="navbar-brand logo"></a>
+            </div>
+            <div class="collapse navbar-collapse" id="navigation-example">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href=index.html><span>Work</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="ui_page.html"><span>Daily UI</span></a>
+                    </li>
+                    <li>
+                        <a href="about.html"><span>About Me</span></a>
+                    </li>
+                    <li>
+                        <a href="resume.html"><span>Resume</span></a>
+                    </li>
+                    <!-- <li>
+                        <a href="archive-room.html"><span>Archive Room</span></a>
+                    </li> -->
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- End Navbar -->
+
+
+    <h4 class="sec-title" style="text-align: center;"> <b>COACHING</b></h4>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2" id="overview">
+      <p class="des">
+        Tell us something unique about you.
+
+      </br>
+        
+        1. "I am a very good communicator and It's easy for me to relate to other people."
+        
+         I am able to match my personality to components of a successful leader.
+      </br>
+        2. "I really enjoy learning new things and am constantly seeking out new learning opportunities."
+        
+    </br>
+        3. "My prior experience in UX/UI Design has provided me with unique technical skills that I can apply to this role."
+        
+         "My prior experience in UX/UI Design provided me with technical skills and an extensive knowledge  onhow product works,interacting with the users/stakeholders. As a UX/UI Designer I use this knowledge to ensure i am meeting customers needs with every every step that requires the user."
+        </br>
+        4. "Working at a startup gave me an opportunity to understand the ins-and-outs of the industry, and to take on tasks I might not have at a larger company. I think this experience gives me a slight edge over other applicants."
+    </br>
+        
+        5. "I'm not afraid of failure, For example …I didnt pass grade12 well but that didnt let me to sit down and allow the financial situation to determine what i want to be "
+    </br>
+        6. "When solving problems, I apply both logic and emotional aspects in equal proportion, 
+    
+        For instance, most people are either logical and use analytics to solve problems, or emotional and use creativity.
+    </br>
+        7. "I'm exceptionally organized, and at my last company, I was able to apply this skill to improve our process and increased the team productivity.
+         </p>
+
+      <p class="des">
+        How are you going to use your skills to make an impact in the organisation?
+
+      </br>  
+        1.Initiate new ideas
+I Take time to be proactive and originate new concepts. While thinking out-of-the-box may be out of my comfort zone, I will generate more possibilities, learn a lot and inspire others.
+</br>
+2.Update coworkers on your progress
+A good colleague supports his or her coworkers. Let your team members know the status of projects you are working on and invite them to share their opinions. When everyone has had the opportunity to contribute, it leads to a better overall outcome.
+</br>
+3.Be positive
+Sometimes it can be challenging but those who have a great attitude—consistently—attract the attention of others. Being positive helps reduce stress, increases productivity as well as interpersonal relations with others. Im not afraid to show my passion!
+</br>
+4.Let others count on me
+I Always deliver high-quality work and make sure others know they can trust me to get the job done. By demonstrating competence, it will leave a lasting impression.
+</br>
+5.Pay attention to what your coworkers say
+Me being a great listener, it shows that Im truly interested in what is being said.
+</br>
+6.Speak up
+I Share what i believe/think its right. It’s an important form of honesty. Others might not always agree but speaking up shows confidence and can fuel discussion, group-thinking and new ideas.
+</br>
+7.Go the extra mile
+I Take initiative to accomplish tasks without being asked. I dont do taks for the sake of coworkers and supervisors to notice me but to give them a reason why they would not let me go in case i want to go. By doing more than what is expected or required
+</br>
+7.Be a leader
+I once Lead a team whereby leadership helped me grow confidence in my team and improved productivity
+</br>
+8.Network
+Connect with others inside and outside of your office. You never know if someone you meet will be able to assist in you in future.
+</br>
+9.Think ahead
+I Stay step ahead and get into the habit of always looking for solutions. Voicing my thoughts is an important component to my job growth and development.forward-thinking i consider it as an asset.
+</p>
+
+ How will this WIL Graduate Programme assist you in achieving your long term goals?
+
+</br>
 1) GAIN KNOWLEDGE
-This reason may be a given. When you pursue an undergraduate or graduate degree, you’re equipped with practical skills and knowledge that you can apply to your workplace. For example, in a business administration degree program, you’ll learn best practices in accounting to understand the financial aspects of your work. In a management program, you’ll learn leadership principles and how to deal with conflict.
 
-This knowledge can be both factual and practical. This means that the information you learn is not just interesting to know but will be of great use in your current role and to where you hope to go.
-
-And just because you’ve reached a high-level management position doesn’t mean you should stop learning. Undergraduate and graduate degrees can help build upon your experience and broaden your skillset.
-
+ knowledge can be both factual and practical. This means that the information I learn is not just interesting to know but will be of great use in my current role and to where I want to go.
+</br>
 2) ENHANCE YOUR SOFT SKILLS
-When you return to school, you learn far more than just different management styles or how to create an influential presentation. You also learn more subtle, but equally important, skills.
-
-These so-called “soft skills” include strong abilities in areas like communication, teamwork, critical thinking and problem-solving. Each of these talents can add value to your organization, wherever you are. And, such skills can give you the experience to be prepared and equipped to take that next step toward achieving your goals.
-
+ “soft skills”which include strong abilities in areas like communication, teamwork, critical thinking and problem-solving. Each of these talents can add value to your organization
+</br>
 3) DEMONSTRATE A STRONG WORK ETHIC
-Pursuing education in addition to your normal work routine will most likely not make your schedule easier. It takes work and determination to achieve a degree. But doing so will demonstrate a strong work ethic to your team and your supervisors.
-
-In an article from Six Sigma Online at Aveta Business Institute, the author notes the positive message continuing your education sends:
-
-Education is always something that supervisors and business executives like to see. When their employees have the drive and initiative to expand their knowledge, it is a good sign that they will be able to benefit the company further.
-
-Demonstrating a strong work ethic and a commitment to your goals gives management hope that you can continue to be successful in your work environment. And, if you’re already in management, a committed and dedicated attitude sets an example for your co-workers and your direct reports.
-
+</br>
+Demonstrating a strong work ethic and a commitment to my goals gives management hope that i can continue to be successful in my work environment.
+</br>
 4) BOOST YOUR CONFIDENCE FOR SUCCESS
-When you earn a degree, you accomplish a big step. You gain knowledge, skills and experience to help you both in your career and in life in general. On top of that, by gaining additional skills in communication and problem solving and achieving your goals, you can also increase your confidence.
+by gaining additional skills in communication and problem solving and achieving my goals, it can also increase my confidence.
 
-And studies have shown that greater confidence leads to greater career advancement.
-
-According to a study from the University of Melbourne cited in an article from Science Daily, there’s a strong correlation between confidence and success. In the study, participants ranked their confidence at various education levels, and findings showed that those who reported higher confidence levels earlier on earned better wages and were promoted quicker.
-
+</br>
 5) GROW YOUR SOCIAL NETWORK
-No, we’re not talking about adding more friends on Facebook. In a classroom setting, you have the opportunity to interact and meet with fellow students who may come from a variety of professional backgrounds.
 
-In being exposed to a broader professional network through continuing your education, you can get to know people who may be in similar situations as you or have been in the spot you’re in and have continued to advance their career.
-
-Your network, grown through earning a degree, can be a wealth of insight and information as you advance your own career.
+Me being exposed to a broader professional network through continuing my education, I can get to know people who may be in similar situations as me or have been in the spot I am in and have continued to advance their career.
 
 GROW YOUR CAREER THROUGH EDUCATION
-To grow your physical strength, you need to train and work at exercising and lifting weights. To grow in your career, you’ve got to put in the work to deepen your knowledge, gain skills and develop a network that will help you take that next step toward where you want to be.
-
-Whether you’re a seasoned manager or new entry-level employee, a degree from Cornerstone University can help you take that step. Check out our degree programs to discover the path that can equip you to achieve your goals.
+ To grow in your career, you’ve got to put in the work to deepen your knowledge, gain skills and develop a network that will help you take that next step toward where you want to be.
 
 
-3--
+</p>
 
-Showing up to the office on time, making an effort to be friendly to coworkers and having a great work ethic—these are all ways to make difference at your workplace. Whether or not we realize it, we are always making an impact at our jobs. The question is: is it a positive one?
+    </div>
+    </div>
+    </div>
+    <div class="fpage">
+      <div class="container">
+          <div class="col-md-9" style="margin: auto;padding-left: 0;padding-right: 0;float: none;">
+              <div class="col-sm-5 sharing-area text-center">
+                  <div class="fullwidth" style="text-align: left;">
+                      <a href="learn-how-others-design.html">
+                          <p class="leftt"><i class="material-icons" style="margin-right: 8px; color: #1769FF;">arrow_back</i><b>PREVIOUS</b></p>
+                      </a>
+                      <a href="learn-how-others-design.html">
+                          <p class="head2" style="margin: 0px auto !important;">How Others Design Seminar</p>
+                      </a>
+                      <a href="learn-how-others-design.html">
+                          <p class="description" style="margin: 10px auto !important;">How to get the most before, during and after every design event you attend</p>
+                      </a>
+                  </div>
+              </div>
+              <div class="col-sm-2 sharing-area text-center">
+            
+              </div>
+              <div class="col-sm-5 sharing-area text-center">
+                  <div class="fullwidth" style="text-align: right;">
+                      <a href="index.html">
+                          <p class="rightt"><b>NEXT</b><i class="material-icons" style="margin-left: 8px; color: #1769FF;">arrow_forward</i></p>
+                      </a>
+                      <a href="index.html">
+                          <p class="head2" style="margin: 0px auto !important;">Oops,No Content Let's Go Back To HomePage</p>
+                      </a>
+                      <a href="index.html">
+                          <p class="description" style="margin: 10px auto !important;">How to get the most before, during and after every design event you attend                          </p>
+                      </a>
+                  </div>
+              </div>
+</div>
+</div>
 
-Unfortunately, there are many people who dislike their jobs, a percentage who just tolerate it and others who love a challenge. Think carefully. Which category do you fall into?
+<div class="section contact" id="contact">
+<div class="container">
+  <div class="row sharing-area text-center ">
+      <div class="sec-title">
+          <h6><b> Find Me On Socials</b></h6>
+      </div>
+      <p class="touch">Have any suggestion or interested in working together on a project?<br>Go ahead, I'm Open For Projects.</p>
+      <a class="btn btn-info btn-round" href="mailto:mkhungela.l@gmail.com" title="Let's Work Together / Hire Me">SEND AN EMAIL</a>
+      <div class="social">
+          
+        <a class="abc" href="index.html"><span>Work</span></a>
+        <a class="dot">/</a>
+        <a class="abc" href="ui_page.html"><span>Daily UI</span></a>
+        <a class="dot">/</a>
+          <a class="abc" href="about.html"><span>About</span></a>
+          <a class="dot">/</a>
+          <a class="abc" href="https://www.behance.net/lulamilemkhungela" target="_blank"><span>Behance</span></a>
+          <a class="abc" href="https://dribbble.com/LulamileMkhungela" target="_blank"><span>Dribbble</span></a>
+          <a class="dot">/</a>
+          <a class="abc" href="https://www.linkedin.com/in/lulamile-mkhungela/" target="_blank"><span>LinkedIn</span></a>
+          <a class="dot">/</a>
+          <a class="abc" href="https://github.com/LulamileMkhungela" target="_blank"><span>GitHub</span></a>
+          <a class="dot">/</a>
+          <a class="abc" href="https://play.google.com/store/apps/details?id=com.lunianetwork.app.android.lunianetwork" target="_blank"><span>GooglePlay Store</span></a>
+      </div>
+  </div>
+  <p class="foot sharing-area text-center">© Designed and Developed With ❤️ By Lulamile Mkhungela</p>
+</div>
+</div>
+<div id="nanobar"></div>
 
-If you really want to thrive in the workplace, there are specific actions you can take. Not only is it good for business, but it is beneficial for overall happiness and well-being.
+<!-- End Section Tabs -->
+<!--   Core JS Files   -->
+<script src="assets/js/jquery.min.js" type="text/javascript"></script>
+<script src="assets/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="assets/js/material.min.js"></script>
 
-Here are 10 ways to make an impact:
+<script src="assets/js/nanobar.min.js" type="text/javascript"></script>
 
-Initiate new ideas
-Take the time to be proactive and originate new concepts. While out-of-the-box thinking may be out of your comfort zone, you’ll generate more possibilities, learn a lot and inspire others.
+<script>
+var options = {
+  classname: 'my-class',
+  id: 'my-id',
+  target: document.getElementById('myDivId')
+};
 
-Update coworkers on your progress
-A good colleague supports his or her coworkers. Let your team members know the status of projects you are working on and invite them to share their opinions. When everyone has had the opportunity to contribute, it leads to a better overall outcome.
+var nanobar = new Nanobar(options);
 
-Be positive
-Sometimes it can be challenging but those who have a great attitude—consistently—attract the attention of others. Being positive helps reduce stress, increases productivity as well as interpersonal relations with others. Don’t be afraid to show your passion!
+// move bar
+nanobar.go(30); // size bar 30%
+nanobar.go(76); // size bar 76%
 
-Let others count on you
-Always deliver high-quality work and make sure others know they can trust you to get the job done. By demonstrating competence, it will leave a lasting impression. It is often easier said than done, but when others view you as trustworthy most likely they will reciprocate.
+// size bar 100% and and finish
+nanobar.go(100);
+</script>
 
-Pay attention to what your coworkers say
-By being a great listener, it shows you are truly interested in what is being said. It has been shown that active listening skills can improve workplace performance. It helps reduce misunderstandings, demonstrates a caring attitude and tasks can usually be accomplished quicker.
+<script src="assets/js/nouislider.min.js" type="text/javascript">
+</script>
+<!-- Control Center for Material Kit: activating the ripples, parallax effects, scripts from the example pages etc -->
+<script src="assets/js/material-kit.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+  //Disable cut copy paste
+  $('body').bind('cut copy paste', function(e) {
+      e.preventDefault();
+  });
 
-Speak up
-Share what you believe. It’s an important form of honesty. Others might not always agree but speaking up shows confidence and can fuel discussion, group-thinking and new ideas.
+  //Disable mouse right click
+  $("body").on("contextmenu", function(e) {
+      return false;
+  });
+});
+</script>
 
-Go the extra mile
-Take initiative to accomplish tasks without being asked. Your coworkers and supervisors will notice. By doing more than what is expected or required, it can result in business improvements and others are likely to follow your lead, which ultimately leads to a more productive workplace. Not to mention it feels good.
+<script src="assets/js/aos.js"></script>
+<script>
+AOS.init({
+  easing: 'ease-in-out',
+  duration: 600,
+  once: true,
+});
+</script>
 
-Be a leader
-Lead by serving others and you will stand out. Effective leadership will help grow confidence in your team, improve business operations and increase emotional intelligence. Those who find solutions and relay them in a constructive way also earn the respect of their peers.
+<!-- Start of StatCounter for Default Guide -->
+<script type="text/javascript">
+var sc_project = 11628552;
+var sc_invisible = 1;
+var sc_security = "d88c3762";
+</script>
+<script type="text/javascript" src="../../www.statcounter.com/counter/counter.js" async></script>
+<noscript>
+<div class="statcounter"><a title="Web Analytics" href="http://statcounter.com/" target="_blank"><img class="statcounter" src="http://c.statcounter.com/11628552/0/d88c3762/1/" alt="Web
+Analytics"></a></div>
+</noscript>
+<!-- End -->
 
-Network
-Connect with others inside and outside of your office. You never know if someone you meet will be able to assist in you in the future. Building long-term relationships has been shown to be vital to career growth.
+</body>
 
-Think ahead
-Stay a step ahead and get into the habit of always looking for solutions. Voicing your thoughts is an important component to your job growth and development. A forward-thinking employee is considered an asset.
 
-2--
-7 Sample Answers to "What Makes You Unique?" and Why They Work
-1. "I am a very good communicator and find it's easy for me to relate to other people."
-Consider mentioning a personality trait you feel would be a good fit for the business. After reading the job description, make a list of attributes that could make you an exceptional candidate.
-
-Additionally, including a personality trait in your answer allows you to display how you're a good fit for a role in which you have little prior experience.
-
-For instance, if you're applying for a position as a team leader, it's critical that you demonstrate strong communication skills and an ability to connect with a diverse group of people. If you tell the interviewer, "I am a very good communicator and find it's easy for me to relate to other people", you're able to match your personality to components of a successful leader.
-
-2. "I really enjoy learning new things and am constantly seeking out new learning opportunities."
-By mentioning your passion for learning new things, you're demonstrating you're growth-focused and unafraid of challenges.
-
-Additionally, answering the question in this way allows you to remind the interviewer why you're uniquely qualified for the role -- while other candidates might have more prior experience in the industry, you're proving your desire to exceed expectations of the job quickly.
-
-3. "My prior experience in customer service has provided me with unique technical skills that I can apply to this role."
-If you have prior experience in a role vastly different from the one for which you're applying, you might use this as an opportunity to explain how your background uniquely qualifies you. With an answer like this one, you're able to alleviate concerns the interviewer might have with your lack of experience in the field.
-
-It's critical, however, that you provide specific examples of how your prior experience has provided you with certain transferrable skills. For instance, you might say, "My prior experience in customer service provided me with technical skills and an extensive knowledge base for how our product works. As a marketer, I will be able to use this knowledge to ensure we're meeting our customers needs with every campaign we launch."
-
-4. "Working at a startup gave me an opportunity to understand the ins-and-outs of the industry, and to take on tasks I might not have at a larger company. I think this experience gives me a slight edge over other applicants."
-Similar to the answer above, this answer is a good one if you're attempting to switch industries. If you think your prior experience could deter interviewers from seeing you as exceptionally qualified, this is an optimal chance to prove them wrong. Consider how your background has allowed you to gain unique skills that others, who followed a more linear career trajectory, might not have. 
-
-For instance, if you previously worked at a small startup and now you want to transfer to a large corporation, it's important you mention how those skills will make you successful in this new role.
-
-5. "I'm not afraid of failure. In fact, I think it is an essential part of the experimental process that gets you to success. For example … "
-This answer shows your interviewer that you're not afraid to take risks. Of course, you'll only want to say this if you have a positive example to reinforce the importance of failure in the workplace.
-
-You don't want to sound like you make mistakes all the time, but you'll stand out if you mention how you turned a failure into a success.
-
-For instance, you might say, "I'm not afraid of failure. In my last role, we tried to streamline our SEO process and, along the way, found we'd accidentally decreased traffic to our site. However, this initial failure allowed me to see the errors in our previous procedure. My team and I came up with a more successful strategy to avoid these mistakes in the future, and ended up increasing traffic by 20%."
-
-With this answer, you're showing you're capable of remaining flexible and open-minded when something doesn't work right away, and you know how to take failures and use them as learning opportunities -- a critical skill for any work environment.
-
-6. "When solving problems, I apply both logic and emotional aspects in equal proportion. For instance, I'm trained in SEO and understand how to use analytics to ensure a marketing campaign is successful, but I also majored in design and know how to apply creativity to a project as well."
-If you're stuck on deciding how to demonstrate your unique qualifications, start by thinking about how other people approach problems at your company, and how you differ.
-
-For instance, most people are either logical and use analytics to solve problems, or emotional and use creativity. It's rare to find someone who is both. If you truly believe you combine these two aspects, it's an impressive ability you should highlight.
-
-7. "I'm exceptionally organized, and at my last company, I was able to apply this skill to improve our process and increase ROI by 33%."
-Remember, when your interviewee asks "what makes you unique", she's really wondering "how will you help our company?" At the end of the day, it's critical you tie your answer back to how you will solve problems for the company.
-
-To avoid sounding like you're bragging, consider a personality trait or skill set that helped your last company achieve results. If the results are quantitative, make sure you have the specific numbers to support your claim. However, it's also appropriate to share qualitative results, such as, "my organizational skills led my manager to trusting me with a major project within the first two months in my role." Ultimately, providing examples shows the interviewer you're results-driven, and aren't just saying generic phrases to answer her question.
-
+</html>
