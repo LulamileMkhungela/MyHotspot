@@ -1,37 +1,3 @@
-My UX Feeds
-
-Learn to deal with ambiguity
-Image for postImage for post
-When I started working on my project, I was confused, lost and often thought that I was not competent good to do the job. I faced imposter syndrome like any other designer. But the truth is that this is what helped me to become a better designer. With each challenge, we grow and learn something new about ourselves. Move forward without knowing all the answers. Give enough time to absorb the problem and the domain you are solving for. A healthy communication with teammates can help a lot but at the end of the day, it is time and patience that shapes us as a designer.
-
-Get out of your comfort zone
-Image for postImage for post
-As junior designers, we tend to live in our bubble and don’t realize that we are a part of a much larger ecosystem. There are different people working on different aspects of the product to make it successful. A good designer needs to acknowledge that and understand the whole scenario. Don’t focus just on creating beautiful visuals or interfaces. Designers can drive business decisions, you need to find opportunities and keep pushing new ideas. Understand your position and value in the organization, but do not be limited by it. Be bold, opinionated and challenge the status quo if you want to grow in a company like Google.
-
-Create and own your network
-Image for postImage for post
-An important part of any internship is networking. In a big organization, you have great chances to meet new people and learn from them. This can benefit you in terms of social skills and also help you overcome your fears. Designers need to be great communicators and if you are afraid to talk to people you will have a hard time. Reach out to people, utilize the opportunity and ask before its too late. People are generally kind and they are willing to help out. Send emails, be proactive, learn how to initiate conversation. This skill will lead you a long way.
-
-Be curious and ask questions
-Image for postImage for post
-Even though many of the questions have no answers, but asking these questions have allowed me to better understand the scope, identify opportunities and make sure I’m not creating new problems. The job of a UX designer is to solve problems, but in order to do that first we need to understand the problem. It’s often tempting to open Sketch and start designing early in the process. Instead, define your problem clearly and develop a plan of attack with a solid research.
-
-Make things happen instead of waiting for them to happen
-Image for postImage for post
-Whenever you see an opportunity, take an initiative to make an impact. The more engaged you are, the more you are going to learn and contribute. Be self-motivated instead of having your lead or manager tell you what you need to do. Don’t wait for permission, always be curious and proceed with the best intentions. Make an effort to know your team members, set up 1:1 meeting, go for lunches, coffee together and exchange thoughts or ideas. Help your team members to organize events, volunteer if you get a chance and show up at company events. You are going to miss a huge opportunity to grow if you just work quietly behind the monitors.
-
-Sweat the small stuff
-Image for postImage for post
-One thing I learned the hard way is to give attention to small details. Go deep, think about edge cases and scenarios where your design would fail. If research is not available, use analytics or existing data, talk to the people who worked on it. Prioritize ruthlessly and keep your designs simple. Define your critical user journeys early in the process and question every step or screen you create. Think about where the user is coming from and what they need at that time. Reduce friction to support their behavior.
-
-Learn to solicit and manage feedback
-Image for postImage for post
-Get feedback often and early in your design process. Don’t be afraid to show incomplete or unfinished work to your team. It’s better to speak up sooner when you are stuck instead of at the end. Don’t hide the issues, work together with the team to find solutions. Be humble, try to understand others point of view. Learn to use different tools and choose which works best for you to communicate your ideas effectively to your teammates.
-
-Always believe in yourself
-Image for postImage for post
-Sometimes it can be intimidating to have such talented people around you all the time. Have faith in yourself, you are a real designer. Stop comparing yourself with others and work on your own skills. Keep iterating, produce more work, and get feedback. First iteration of your design might suck, don't try to be perfect. Remember that every designer has a different design process and that’s okay. You’ll eventually find your own process.
-
 Overall Reflecting back on everything, it’s been quite a memorable experience at Google. I worked on a very interesting problem, met some really cool people and learned a lot of new things along the way. If you have any questions on how to get started in design or how to find an internship in design, email me at jain180@gmail.com or find me on LinkedIn.
 
 We believe designers are thinkers as much as they are makers. Curated stories on UX, Visual & Product Design.
